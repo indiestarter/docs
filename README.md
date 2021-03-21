@@ -1,5 +1,9 @@
 # Indiestarter
 
+Indiestarter is a decentralized crowdfunding platform connecting creatives and investors.
+
+Beta launching Q2 2021. Initially built at the NFTHack 2021.
+
 ## Design Guide
 
 ### Color Scheme
